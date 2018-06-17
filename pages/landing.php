@@ -5,8 +5,8 @@
   <div class="row">
    <div class="col-md-12 col-sm-12 col-xs-12 wow fadeInLeft">
     <div class="slider-content text-center">
-     <h2 class="slider-title">Self <span>Positioning</span> Kiosks</h2>
-     <h4 class="slider-title">Clever machines that adapt to people</h4>
+     <h2 class="slider-title">Self  Positioning<br> Kiosks</h2>
+     <h4 class="slider-title">Machines adapting to people </h4>
      <!--
      <div class="btn-container">
      <button class="btn btn-default featured">
@@ -214,11 +214,11 @@ The patient can answer questions, upload pictures, chat. Integrated IOT devices 
 
 <script>new WOW().init();</script>
 <script>
-	$.backstretch(["images/bg/bg1.jpg", "images/bg/bg2.jpg", "images/bg/bg3.jpg"], {
-		fade : 950,
-		duration : 10000
-	});
-
+$.backstretch([ "images/bg/bg1.jpg", "images/bg/bg2.jpg",
+    "images/bg/bg3.jpg","images/bg/bg4.jpg" ], {
+  fade : 850,
+  duration : 3000
+});
 </script>
 <script>
 	$('.counter').counterUp({

@@ -1,11 +1,11 @@
 /*
  * @package Droplet
  * @subpackage Droplet HTML
- * 
+ *
  * Template Scripts
  * Created by Themeturn
 
-  
+
  */
 
 $(window).load(function() { // makes sure the whole site is loaded
@@ -107,15 +107,7 @@ $(document).ready(
 				interval : 100000
 			})
 
-			/*
-			 * ============================================== Bactstretch js
-			 * ===============================================
-			 */
-			$.backstretch([ "images/bg/bg1.jpg", "images/bg/bg2.jpg",
-					"images/bg/bg3.jpg" ], {
-				fade : 950,
-				duration : 10000
-			});
+			
 
 			/*
 			 * ============================================== Back To Top Button
