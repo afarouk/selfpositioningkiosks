@@ -3,7 +3,7 @@
  <div class="bg-overlay pattern"></div>
  <div class="container">
   <div class="row">
-   <div class="col-md-12 col-sm-12 col-xs-12 wow fadeInLeft">
+   <div class="col-md-offset-3 col-lg-offset-3 col-md-9 col-lg-9 col-sm-12 col-xs-12 wow fadeInLeft">
     <div class="slider-content text-center">
      <h2 class="slider-title">Self  Positioning<br> Kiosks</h2>
      <h4 class="slider-title">Machines adapting to people </h4>
@@ -215,7 +215,7 @@ The patient can answer questions, upload pictures, chat. Integrated IOT devices 
 <script>new WOW().init();</script>
 <script>
 $.backstretch([ "images/bg/bg1.jpg", "images/bg/bg2.jpg",
-    "images/bg/bg3.jpg","images/bg/bg4.jpg" ], {
+    "images/bg/bg3.jpg","images/bg/bg4.jpg" ,"images/bg/bg5.jpg" ,"images/bg/bg6.jpg" ,"images/bg/bg7.jpg","images/bg/bg8.jpg"  ], {
   fade : 850,
   duration : 3000
 });
