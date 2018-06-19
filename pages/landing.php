@@ -214,7 +214,7 @@
 <!-- End Back To Top Button -->
 <script>new WOW().init();</script>
 <script>
-  $.backstretch([ "images/bg/bg1.png"  ], {
+  $.backstretch([ "images/bg/bg1.jpg"  ], {
     fade : 850,
     duration : 3000
   });
