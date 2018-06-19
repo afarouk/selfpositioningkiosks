@@ -6,7 +6,7 @@
       <div class="col-md-offset-2 col-lg-offset-2 col-md-10 col-lg-10 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
           <h2 class="slider-title">Self Positioning Kiosks</h2>
-          <h4 class="slider-title">Machines adapting to people</h4>
+          <h4 class="slider-title">The Future is here</h4>
           <!--
             <div class="btn-container">
             <button class="btn btn-default featured">
@@ -30,7 +30,7 @@
   <div class="container">
     <div class="row">
       <div class="heading-inner text-center">
-        <h2 class="sec-title"> The future <span> is here </span></h2>
+        <h2 class="sec-title"> Robotics, Machine-Vision <span> and AI </span></h2>
         <h4 class="sec-sub-title text-center"> Soon you will be pulling up in your self-driving car, and a self-positioning kiosk will come up to you, to take your order </h4>
       </div>
     </div>
@@ -40,22 +40,22 @@
         <div class="row">
           <div class="col-md-12 wow slideInLeft" data-wow-delay=".3s">
             <div class="about-inner ">
-              <img src="images/anonymous.png" />
+              <img src="images/features/walkUp.png" />
               <div class="about-content">
-                <h4>The problem </h4>
-                <p>We humans are diverse, we come in all shapes and sizes. Machines, on the other hand, are standardized. So, in man-machine-interfaces, it is the human who
-                  has to adapt to the machine. At least, that is how it is today. We want to change the relationship. We believe machines should adapt to us.
+                <h4>Walk-up </h4>
+                  Self-service kioks designers have to pick a position and fix it there, or use a giant screen, which is just as frustrating. A self-positioning kiosk takes out the frustration, and it is fun to watch it move up to you.
+                <p>
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-12  wow slideInLeft" data-wow-delay=".5s">
             <div class="about-inner ">
-              <img src="images/improved_monitoring.png"/>
+              <img src="images/features/heads.png"/>
               <div class="about-content">
-                <h4>The solution</h4>
+                <h4>The head</h4>
                 <p>
-                  The patient can answer questions, upload pictures, chat. Integrated IOT devices add physical measurements in the same secure and anonymised manner.
+                  Finding the head, covered in a hoodie, or in a hat, or in a helmet is not easy. And it is not enough to detect the head, we also need to find the exact location, in three dimensions. We utilize machine-vision, LIDARS, and AI to pull it off..
                 </p>
               </div>
             </div>
@@ -70,22 +70,22 @@
         <div class="row">
           <div class="col-md-12 wow slideInRight" data-wow-delay=".3s">
             <div class="about-inner ">
-              <img src="images/nothing_to_download.png" />
+              <img src="images/features/driveThru.png" />
               <div class="about-content">
-                <h4>Accessibility</h4>
+                <h4>Drive-thru</h4>
                 <p>
-                  No Appstore account needed, no login to remember, nothing to download. Millennials or otherwise, tech-savvy or not, all that is needed is a working smartphone.
+                    We drive different types of cars, we judge distances differently, and even after all that, we would have to turn our necks 90 degrees in a test of flexibility to reach the kiosk. It is so much better when the kiosk comes to us.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-12 wow slideInRight" data-wow-delay=".5s">
             <div class="about-inner ">
-              <img src="images/lower_cost.png" />
+              <img src="images/features/kiosk.png" />
               <div class="about-content">
-                <h4>Head-following</h4>
+                <h4>The Kiosk</h4>
                 <p>
-                  There are many other applications of our core technology, of being able identify and follow a head of a person. Maybe it is a surgeon's assistant, or a helper in a factory.
+                  Novelty of the robotics aside, we need a powerful multi-functional kiosk which will have to integrate with both the e-commerce and the motion controllers. It can tell the user when it is moving, and then switch to the business function seamlessly.
                 </p>
               </div>
             </div>
