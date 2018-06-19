@@ -6,7 +6,7 @@
    <div class="col-md-offset-3 col-lg-offset-3 col-md-9 col-lg-9 col-sm-12 col-xs-12 wow fadeInLeft">
     <div class="slider-content text-center">
      <h2 class="slider-title">Self  Positioning<br> Kiosks</h2>
-     <h4 class="slider-title">Machines adapting to people </h4>
+     <h4 class="slider-title"> Machines adapting to people</h4>
      <!--
      <div class="btn-container">
      <button class="btn btn-default featured">
@@ -30,8 +30,8 @@
  <div class="container">
   <div class="row">
    <div class="heading-inner text-center">
-    <h2 class="sec-title"> Our novel <span> approach </span></h2>
-    <h4 class="sec-sub-title text-center"> The communication needs of <span> healthcare</span> have many restrictions and specific requirements. </h4>
+    <h2 class="sec-title"> The future <span> is here </span></h2>
+    <h4 class="sec-sub-title text-center"> Soon you will be pulling up in your self-driving car, and a self-positioning kiosk will come up to you, to take your order </h4>
    </div>
   </div>
   <!-- heading row end -->
@@ -42,20 +42,10 @@
       <div class="about-inner ">
        <img src="images/anonymous.png" />
        <div class="about-content">
-        <h4>Anonymized access</h4>
-        <p>
-Ultimate privacy is attained when the patient's identity is never exchanged in any communication. Only the doctor sees the real identity of the patient.
+        <h4>Machines of the future</h4>
+        <p>We humans are diverse, we come in all shapes and sizes. Machines, on the other hand, are standardized. So, in man-machine-interfaces, it is the human who
+          has to adapt to the machine. At least, that is how it is today. We want to change the relationship. We believe machines should adapt to us. 
         </p>
-       </div>
-      </div>
-     </div>
-     <div class="col-md-12  wow slideInLeft" data-wow-delay=".5s">
-      <div class="about-inner ">
-       <img src="images/improved_monitoring.png"/>
-       <div class="about-content">
-        <h4>Improved patient-care</h4>
-        <p>
-The patient can answer questions, upload pictures, chat. Integrated IOT devices add physical measurements in the same secure and anonymised manner.        </p>
        </div>
       </div>
      </div>
