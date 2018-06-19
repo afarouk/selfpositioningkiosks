@@ -3,7 +3,7 @@
   <div class="bg-overlay pattern"></div>
   <div class="container">
     <div class="row">
-      <div class="col-md-offset-2 col-lg-offset-2 col-md-10 col-lg-10 col-sm-12 col-xs-12 wow fadeInLeft">
+      <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
           <h2 class="slider-title">Self Positioning Kiosks</h2>
           <h4 class="slider-title">The Future is here</h4>
@@ -30,7 +30,7 @@
   <div class="container">
     <div class="row">
       <div class="heading-inner text-center">
-        <h2 class="sec-title"> Robotics, Machine-Vision <span> and AI </span></h2>
+        <h2 class="sec-title"> Robotics, <BR> Machine-Vision <span> and AI </span></h2>
         <h4 class="sec-sub-title text-center"> Soon you will be pulling up in your self-driving car, and a self-positioning kiosk will come up to you, to take your order </h4>
       </div>
     </div>
@@ -64,7 +64,7 @@
         <!-- row end -->
       </div>
       <div class="col-md-4 col-sm-4 col-xs-4 visible-md visible-lg wow fadeInDown" data-wow-delay=".3s">
-        <img src="images/app_lifecycle.png" alt="" class="img-responsive">
+        <img src="images/features/SPK.png" alt="" class="img-responsive">
       </div>
       <div class="col-md-4 col-sm-6">
         <div class="row">
@@ -97,11 +97,12 @@
     <!-- row end -->
   </div>
   <!-- container end -->
+<!--
 </section>
-<!-- Section features end -->
+
 <section id="scenario"  class="white_background">
   <div  class="container ">
-    <!-- FEATURETTE BEGIN  -->
+
     <div class="row">
       <div class="heading-inner text-center">
         <h2 class="sec-title">A typical <span>scenario</span></h2>
@@ -128,7 +129,8 @@
           class="featurette-image img-responsive" alt="500x400"></span>
       </div>
     </div>
-    <!-- FEATURETTE END  -->
+     -->
+
     <hr style="border: none;" />
     <hr/>
     <hr style="border: none;" />

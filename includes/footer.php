@@ -33,7 +33,7 @@
                             </li>
 
                             <li>
-                                <a class="page-scroll" href=<?php echoActiveClassIfRequestMatches("index","contact") ?>Contact</a>
+                                <a class="page-scroll" href=<?php echoActiveClassIfRequestMatches("index","contact") ?> >Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -41,7 +41,7 @@
             </div>
 			<div class="col-sm-5">
                 <div class="copyright">
-				    <a href="/">&#0169 &nbsp;2018. All rights reserved.&nbsp; | Orinoco Inc./a>
+				    <a href="/">&#0169 &nbsp;2018. All rights reserved.&nbsp; | Orinoco Inc. </a>
                 </div>
 			</div>
 		</div>
