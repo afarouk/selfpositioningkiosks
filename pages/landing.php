@@ -63,9 +63,12 @@
         </div>
         <!-- row end -->
       </div>
+
       <div class="col-md-4 col-sm-4 col-xs-4 visible-md visible-lg wow fadeInDown" data-wow-delay=".3s">
-        <img src="images/features/SPK.png" alt="" class="img-responsive">
+        <img src="images/features/animatedKiosk.gif" alt="" class="img-responsive center-block">
       </div>
+
+
       <div class="col-md-4 col-sm-6">
         <div class="row">
           <div class="col-md-12 wow slideInRight" data-wow-delay=".3s">
@@ -93,6 +96,9 @@
         </div>
         <!-- row end -->
       </div>
+
+
+
     </div>
     <!-- row end -->
   </div>
