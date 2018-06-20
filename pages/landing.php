@@ -30,7 +30,7 @@
   <div class="container">
     <div class="row">
       <div class="heading-inner text-center">
-        <h2 class="sec-title"> Making <BR> Self-Fervice  Accessible and  <span> Fun </span></h2>
+        <h2 class="sec-title"> Making <BR> Self-Service  Accessible and  <span> Fun </span></h2>
         <h4 class="sec-sub-title text-center"> Fixed position kiosks can be frustrating, even impossible to use if you are disabled. We can do better. </h4>
       </div>
     </div>
