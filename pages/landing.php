@@ -83,7 +83,7 @@ end general problem -->
   <div class="container-fluid">
     <div class="row" style="padding-bottom:140px;">
       <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
-        <img src="images/landing/orderingWallSolution.png" class="center-block img-responsive" </>
+        <img src="images/landing/strainPain.png" class="center-block img-responsive" </>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@ end general problem -->
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
         <div class="h1 text-center" style="padding-top:140px;">
-          It gets worse at drive-thrus
+           It gets worse at drive-thrus
         </div>
       </div>
     </div>
@@ -137,7 +137,7 @@ end general problem -->
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <div class="h1 text-center" style="padding-top:140px;">
+        <div class="h2" style="text-align: center; padding-top:140px;">
           <ul>
           <li> Using machine-vision/AI, the kiosk locates your head</li>
           <li> It predicts where it would be most comfortable for your </li>
@@ -162,7 +162,67 @@ end general problem -->
 <!-- end drivethru problem -->
 
 
+<section id="slider-part">
+  <div class="bg-overlay pattern"></div>
+  <div class="container">
+    <div class="row">
+      <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
+        <div class="slider-content text-center">
+          <h2 class="slider-title">Result: Vision-enabled Kiosks</h2>
+          <h4 class="slider-title">They make self-service kiosks easy and fun </h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
+<!-- begin strain pain solution is the key -->
+
+<section id="trueStandalone" class="white_background">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="h1 text-center" style="padding-top:140px;">
+           No need for gigantic screens, we can use normal tablets comfortably
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="unifiedorders" class="white_background">
+  <div class="container-fluid">
+    <div class="row" style="padding-bottom:140px;">
+      <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
+        <img src="images/landing/noStrainPain.png" class="center-block img-responsive" </>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end drivethru problem -->
+<!-- begin strain pain solution is the key -->
+
+<section id="trueStandalone" class="white_background">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="h1 text-center" style="padding-top:140px;">
+          The kiosk is positioned perfectly for drive-thru self-service
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="unifiedorders" class="white_background">
+  <div class="container-fluid">
+    <div class="row" style="padding-bottom:140px;">
+      <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
+        <img src="images/landing/notImposibble.png" class="center-block img-responsive" </>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- section Contact start -->
 <section id="contact" >
   <div class="bg-overlay pattern"></div>
