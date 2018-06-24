@@ -6,7 +6,7 @@
       <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
           <h2 class="slider-title">Self Positioning Kiosks</h2>
-          <h4 class="slider-title">A machine that can see you can adapt to you</h4>
+          <h4 class="slider-title">A machine that can see us can adapt to us</h4>
         </div>
       </div>
     </div>
@@ -21,80 +21,46 @@
     <div class="row">
       <div class="heading-inner text-center">
         <h2 class="sec-title"> Giving <BR> Machine-Vision to the <span> Kiosk </span></h2>
-        <h4 class="sec-sub-title text-center"> Fixed position kiosks can be frustrating, even impossible to use if you are disabled. We can do better. </h4>
-      </div>
-    </div>
-    <!-- begin left-right rows...
-
-    <div class="row">
-      <div class="col-md-4 col-sm-6">
-        <div class="row">
-          <div class="col-md-12 wow slideInLeft" data-wow-delay=".3s">
-            <div class="about-inner ">
-              <img src="images/features/walkUp.png" />
-              <div class="about-content">
-                <h4>Walk-up </h4>
-                  Self-service kioks designers have to pick a position and fix it there, or use a giant screen, which is just as frustrating. A self-positioning kiosk takes out the frustration, and it is fun to watch it move up to you.
-                <p>
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12  wow slideInLeft" data-wow-delay=".5s">
-            <div class="about-inner ">
-              <img src="images/features/heads.png"/>
-              <div class="about-content">
-                <h4>The head</h4>
-                <p>
-                  Finding the head, covered in a hoodie, or in a hat, or in a helmet is not easy. And it is not enough to detect the head, we also need to find the exact location, in three dimensions. We utilize machine-vision, LIDARS, and AI to pull it off..
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-      <div class="col-md-4 col-sm-4 col-xs-4 visible-md visible-lg wow fadeInDown" data-wow-delay=".3s">
-        <img src="images/features/animatedKiosk.gif" alt="" class="img-responsive center-block">
-      </div>
-
-      <div class="col-md-4 col-sm-6">
-        <div class="row">
-          <div class="col-md-12 wow slideInRight" data-wow-delay=".3s">
-            <div class="about-inner ">
-              <img src="images/features/driveThru.png" />
-              <div class="about-content">
-                <h4>Drive-thru</h4>
-                <p>
-                    We drive different types of cars, we judge distances differently, and even after all that, we would have to turn our necks 90 degrees in a test of flexibility to reach the kiosk. It is so much better when the kiosk comes to us.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-12 wow slideInRight" data-wow-delay=".5s">
-            <div class="about-inner ">
-              <img src="images/features/kiosk.png" />
-              <div class="about-content">
-                <h4>The Kiosk</h4>
-                <p>
-                  Novelty of the robotics aside, we need a powerful multi-functional kiosk which will have to integrate with both the e-commerce and the motion controllers. It can tell the user when it is moving, and then switch to the business function seamlessly.
-                </p>
-              </div>
-            </div>
-          </div>
+          <h4 class="sec-sub-title text-center"> Fixed position kiosks can be frustrating, even impossible to use if you are disabled. We can do better. </h4>
         </div>
       </div>
     </div>
-    END left-right features  -->
-
-  </div>
-  <!-- container end -->
+    <!-- container end -->
 
 
     <hr style="border: none;" />
     <hr/>
     <hr style="border: none;" />
+  </div>
+</section>
+
+
+<section id="summary"  >
+  <div class="container-fluid  ">
+    <div class="row  ">
+      <div class="col-lg-offset-2 col-md-offset-2 col-sm-offset-1 col-xs-12 col-sm-10   col-md-8   col-lg-8">
+        <div style="padding-top:140px;padding-bottom:20px;">
+          <p class="text-center h1" style="color:white; "> Fixed-Position Kiosks Ignore Us </p>
+        </br>
+        <p class="secondary_block_text text-center h3" style="color:white; padding-bottom:100px;">
+          We end up straining, or bending or just plain feeling miserable
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+
+
+
+<section id="unifiedorders" class="white_background">
+  <div class="container-fluid">
+    <div class="row" style="padding-bottom:140px;">
+      <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
+        <img src="images/landing/strainPain.png" class="center-block img-responsive" </>
+      </div>
+    </div>
   </div>
 </section>
 <!-- section Contact start -->
@@ -148,7 +114,7 @@
           <div class="row">
             <div class="col-md-12 text-center">
               <button class="btn btn-default" id="contactSubmit" >
-              Submit
+                Submit
               </button>
             </div>
           </div>
@@ -175,14 +141,14 @@
 <!-- End Back To Top Button -->
 <script>new WOW().init();</script>
 <script>
-  $.backstretch([ "images/bg/bg1.jpg"  ], {
-    fade : 850,
-    duration : 3000
-  });
+$.backstretch([ "images/bg/bg1.jpg"  ], {
+  fade : 850,
+  duration : 3000
+});
 </script>
 <script>
-  $('.counter').counterUp({
-  	delay : 100,
-  	time : 2000
-  });
+$('.counter').counterUp({
+  delay : 100,
+  time : 2000
+});
 </script>
