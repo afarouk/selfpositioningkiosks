@@ -140,8 +140,8 @@ end general problem -->
         <div class="h2" style="text-align: center; padding-top:140px;">
           <ul>
           <li> Using machine-vision/AI, the kiosk locates your head</li>
-          <li> It predicts where it would be most comfortable for your </li>
-          <li> It moves itself there.</li>
+          <li> It predicts the most comfortable position for you </li>
+          <li> It moves itself, autonomously and safely.</li>
         </ul>
         </div>
       </div>
@@ -218,7 +218,7 @@ end general problem -->
   <div class="container-fluid">
     <div class="row" style="padding-bottom:140px;">
       <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
-        <img src="images/landing/notImposibble.png" class="center-block img-responsive" </>
+        <img src="images/landing/notImposible.png" class="center-block img-responsive" </>
       </div>
     </div>
   </div>
