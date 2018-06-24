@@ -218,7 +218,7 @@ end general problem -->
   <div class="container-fluid">
     <div class="row" style="padding-bottom:140px;">
       <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
-        <img src="images/landing/notImposible.png" class="center-block img-responsive" </>
+        <img src="images/landing/notImpossible.png" class="center-block img-responsive" </>
       </div>
     </div>
   </div>
