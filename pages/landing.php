@@ -6,21 +6,11 @@
       <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
           <h2 class="slider-title">Self Positioning Kiosks</h2>
-          <h4 class="slider-title">Because people come in all shapes and sizes</h4>
-          <!--
-            <div class="btn-container">
-            <button class="btn btn-default featured">
-            Discover
-            </button>
-            <button class="btn btn-default">
-            Download Now
-            </button>
-            </div>
-            -->
+          <h4 class="slider-title">A machine that can see you can adapt to you</h4>
         </div>
       </div>
     </div>
-    <!-- row end -->
+
   </div>
   <!-- container end -->
 </section>
@@ -30,11 +20,12 @@
   <div class="container">
     <div class="row">
       <div class="heading-inner text-center">
-        <h2 class="sec-title"> Making <BR> Self-Service  Accessible and  <span> Fun </span></h2>
+        <h2 class="sec-title"> Giving <BR> Machine-Vision to the <span> Kiosk </span></h2>
         <h4 class="sec-sub-title text-center"> Fixed position kiosks can be frustrating, even impossible to use if you are disabled. We can do better. </h4>
       </div>
     </div>
-    <!-- heading row end -->
+    <!-- begin left-right rows...
+
     <div class="row">
       <div class="col-md-4 col-sm-6">
         <div class="row">
@@ -61,13 +52,12 @@
             </div>
           </div>
         </div>
-        <!-- row end -->
+
       </div>
 
       <div class="col-md-4 col-sm-4 col-xs-4 visible-md visible-lg wow fadeInDown" data-wow-delay=".3s">
         <img src="images/features/animatedKiosk.gif" alt="" class="img-responsive center-block">
       </div>
-
 
       <div class="col-md-4 col-sm-6">
         <div class="row">
@@ -94,48 +84,13 @@
             </div>
           </div>
         </div>
-        <!-- row end -->
       </div>
-
-
-
     </div>
-    <!-- row end -->
+    END left-right features  -->
+
   </div>
   <!-- container end -->
-<!--
-</section>
 
-<section id="scenario"  class="white_background">
-  <div  class="container ">
-
-    <div class="row">
-      <div class="heading-inner text-center">
-        <h2 class="sec-title">A typical <span>scenario</span></h2>
-        <p>You just had surgery. Your doctor wants to monitor you closely.</p>
-      </div>
-      <div class="col-md-4">
-        <ul class="scenario_list">
-          <li>
-            The doctor/nurse creates your profile and sends a link to you, for your virtual follow-up.
-          </li>
-          <li>
-            You don't even have to login. No identifiable credentials are ever used in any communication.
-          </li>
-          <li>
-            Communicate, answer questionnaires, upload pictures, chat, ask questions securely.
-          </li>
-          <li>
-            Integrated IOT devices allow your doctor to monitor you in real-time, as he deems necessary.
-          </li>
-        </ul>
-      </div>
-      <div class="col-md-8 featurette-image-frame">
-        <span class="featurette-image-helper"> <img src="images/projects/medicuris/curis_app.png"
-          class="featurette-image img-responsive" alt="500x400"></span>
-      </div>
-    </div>
-     -->
 
     <hr style="border: none;" />
     <hr/>
