@@ -63,6 +63,39 @@
     </div>
   </div>
 </section>
+
+<section id="trueStandalone" class="white_background">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="h1 text-center" style="padding-top:140px;">
+          It is worse for self-service at drive-thru
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="unifiedorders" class="white_background">
+  <div class="container-fluid">
+    <div class="row" style="padding-bottom:140px;">
+      <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
+        <img src="images/landing/impossible.png" class="center-block img-responsive" </>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
 <!-- section Contact start -->
 <section id="contact" >
   <div class="bg-overlay pattern"></div>
