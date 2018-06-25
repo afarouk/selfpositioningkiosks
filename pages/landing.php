@@ -6,7 +6,7 @@
       <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
           <h2 class="slider-title">Self Positioning Kiosks</h2>
-          <h4 class="slider-title">Making self-service fun and accessible</h4>
+          <!-- <h4 class="slider-title">Making self-service fun and accessible</h4> -->
         </div>
       </div>
     </div>
@@ -68,11 +68,11 @@ end general problem -->
   <div class="container-fluid  ">
     <div class="row  ">
       <div class="col-lg-offset-2 col-md-offset-2 col-sm-offset-1 col-xs-12 col-sm-10   col-md-8   col-lg-8">
-        <div style="padding-top:140px;padding-bottom:20px;">
+        <div  >
           <p class="text-center h1" style="color:#838383; "> Self-service is growing</p>
         </br>
-        <p class="secondary_block_text text-center h3" style="color:#838383; padding-bottom:100px;">
-          Current fixed-position kiosks make us strain, bend or feel miserable if we are on a wheelchair
+        <p class="secondary_block_text text-center h3" style="color:#838383; ">
+          But the giant-kiosks make us strain, bend or feel miserable if we are on a wheelchair
         </p>
       </div>
     </div>
@@ -81,9 +81,9 @@ end general problem -->
 
 <section id="unifiedorders" class="white_background">
   <div class="container-fluid">
-    <div class="row" style="padding-bottom:140px;">
-      <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
-        <img src="images/landing/strainPain.png" class="center-block img-responsive" </>
+    <div class="row"  >
+      <div class="col-xs-12 col-sm-12  col-md-12 col-lg-12">
+        <img src="images/landing/strainPain.png" class="center-block img-responsive"> </img>
       </div>
     </div>
   </div>
@@ -95,8 +95,8 @@ end general problem -->
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <div class="h1 text-center" style="padding-top:140px;">
-           It gets worse at drive-thrus
+        <div class="h1 text-center"  >
+           It gets worse at a drive-thru
         </div>
       </div>
     </div>
@@ -106,7 +106,7 @@ end general problem -->
 
 <section id="unifiedorders" class="white_background">
   <div class="container-fluid">
-    <div class="row" style="padding-bottom:140px;">
+    <div class="row"  >
       <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
         <img src="images/landing/impossible.png" class="center-block img-responsive" </>
       </div>
@@ -122,7 +122,7 @@ end general problem -->
     <div class="row">
       <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
-          <h2 class="slider-title">Let the kiosk see you</h2>
+          <h2 class="slider-title">Machine Vision / AI </h2>
           <h4 class="slider-title">If it can see you, it can adapt to you</h4>
         </div>
       </div>
@@ -130,6 +130,30 @@ end general problem -->
   </div>
 </section>
 
+<!-- find the head -->
+
+<section id="trueStandalone" class="white_background">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="h2" style="text-align: center;  ">
+           Finding the head is tricky.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="unifiedorders" class="white_background">
+  <div class="container-fluid">
+    <div class="row"  >
+      <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
+        <img src="images/landing/whereIsTheHead.png" class="center-block img-responsive" </>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- begin machinevision is the key -->
 
@@ -137,11 +161,11 @@ end general problem -->
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <div class="h2" style="text-align: center; padding-top:140px;">
+        <div class="h2" style="text-align: center;  ">
           <ul>
-          <li> Using machine-vision/AI, the kiosk locates your head</li>
-          <li> It predicts the most comfortable position for you </li>
-          <li> It moves itself, autonomously and safely.</li>
+          <li> Using machine-vision/AI, locate the head</li>
+          <li> Predict the most comfortable position  </li>
+          <li> Move, autonomously and safely.</li>
         </ul>
         </div>
       </div>
@@ -152,7 +176,7 @@ end general problem -->
 
 <section id="unifiedorders" class="white_background">
   <div class="container-fluid">
-    <div class="row" style="padding-bottom:140px;">
+    <div class="row"  >
       <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
         <img src="images/landing/machineVision.png" class="center-block img-responsive" </>
       </div>
@@ -168,7 +192,7 @@ end general problem -->
     <div class="row">
       <div class="  col-md-12 col-lg-12 col-sm-12 col-xs-12 wow fadeInLeft">
         <div class="slider-content text-center">
-          <h2 class="slider-title">Result: Vision-enabled Kiosks</h2>
+          <h2 class="slider-title">Vision-Enabled Kiosks</h2>
           <h4 class="slider-title">They make self-service kiosks easy and fun </h4>
         </div>
       </div>
@@ -182,8 +206,8 @@ end general problem -->
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <div class="h1 text-center" style="padding-top:140px;">
-           No need for gigantic screens, we can use normal tablets comfortably
+        <div class="h1 text-center"  >
+           Gigantic screens replaced by comfortable right-sized kiosks
         </div>
       </div>
     </div>
@@ -192,7 +216,7 @@ end general problem -->
 
 <section id="unifiedorders" class="white_background">
   <div class="container-fluid">
-    <div class="row" style="padding-bottom:140px;">
+    <div class="row"  >
       <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-10 col-lg-offset-1">
         <img src="images/landing/noStrainPain.png" class="center-block img-responsive" </>
       </div>
@@ -206,7 +230,7 @@ end general problem -->
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-        <div class="h1 text-center" style="padding-top:140px;">
+        <div class="h1 text-center"  >
           The kiosk is positioned perfectly for drive-thru self-service
         </div>
       </div>
